@@ -1,0 +1,58 @@
+.color{
+    border: solid ;
+    background-color: pink;
+    color: purple;
+    padding: 15px;
+    margin: 0 auto;
+    width:34%!important;
+    height:auto;
+    text-align:center;
+    font-size:large;
+    border: none;
+
+    }
+    .add{
+      background-color: rgb(165, 32, 226); 
+      border-radius: 5px; 
+      padding: 10px;
+      border: none;
+      color: azure;
+       
+    }
+    #todoInput{
+        border-radius: 2px;
+        padding: 5px;
+        border: none;
+    
+    }
+/* #filterDropdown{
+    display: inline-block;
+    position: relative;
+    top:-7%;
+    left: -8%;
+    z-index:9999;
+    /*border:solid;*/
+    /* float: right;
+    background-color: rgb(225, 0, 255);
+    color: purple;
+     */
+/* */ */
+.todos{
+    
+    color:rgb(212, 13, 162) ;
+}
+button{
+    background-color: rgb(236, 31, 175);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 2px;
+    color: azure;
+}
+input{
+    padding: 10px;
+}
+
+
+
+   
